@@ -148,10 +148,10 @@ body {
 
   .apresentacao {
     flex-direction: column-reverse;
-    width: auto;
+    padding: 5%;
   }
 
   .apresentacao__texto {
-    padding: 5%;
+    width: auto;
   }
 }
